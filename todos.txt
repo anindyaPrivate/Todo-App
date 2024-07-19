@@ -1,4 +1,3 @@
 working a project
 learning python
-practicing guiter
-learn LSTM
+
