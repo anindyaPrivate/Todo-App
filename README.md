@@ -20,9 +20,8 @@ This is a simple To-Do application built with Python 3.12. The application allow
 
 ### Clone the repository:
 ```bash
-git clone https://[github.com/anindyaPrivate/python-todo-app.git
-](https://github.com/anindyaPrivate/Todo-App/tree/master)
+git clone https://github.com/anindyaPrivate/Todo-App/tree/master
 ```
 
 ## Demo
-Check out the app here: 📝 Python To-Do App
+Check out the app here: [📝 Python To-Do App](https://anindyaprivate-todo-app-web-sq6old.streamlit.app/)
