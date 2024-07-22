@@ -1,9 +1,9 @@
-📝 Python To-Do App
+📝 **Python To-Do App**
 
 This is a simple To-Do application built with Python 3.12. The application allows users to add, view, and manage their to-do items.
 
 
-Features
+**Features**
 
 ➕ Add new to-do items
 
@@ -11,9 +11,6 @@ Features
 
 ✅ Mark items as complete
 
-🗑️ Delete items from the list
-
-
-Requirements
+**Requirements**
 
 🐍 Python 3.12 or higher
