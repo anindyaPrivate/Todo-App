@@ -1,2 +1,3 @@
- learning rnn
- learning cnn
+learn python
+learn lstm
+learn rnn
