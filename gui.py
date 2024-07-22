@@ -1,6 +1,12 @@
 import functions
 import FreeSimpleGUI as sg
 import time
+import os
+
+# if path is not present it will create
+if not os.path.exists('todos.txt'):
+    with open('todos.txt','w'):
+        pass
 
 sg.theme('DarkTeal12')
 label_clock = sg.Text('', key='clock')
