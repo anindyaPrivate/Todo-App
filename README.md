@@ -20,7 +20,7 @@ This is a simple To-Do application built with Python 3.12. The application allow
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/anindyaPrivate/Todo-App/tree/master
+git clone https://github.com/anindyaPrivate/Todo-App
 ```
 
 ## Demo
