@@ -3,7 +3,7 @@
 This is a simple To-Do application built with Python 3.12. The application allows users to add, view, and manage their to-do items.
 
 
-**Features**
+## **Features**
 
 ➕ Add new to-do items
 
@@ -11,12 +11,18 @@ This is a simple To-Do application built with Python 3.12. The application allow
 
 ✅ Mark items as complete
 
-**Requirements**
+## **Requirements**
 
 🐍 Python 3.12 or higher
 
 
-**Installation**
+## **Installation**
 
-Clone the repository:
+### Clone the repository:
+```bash
+git clone https://[github.com/anindyaPrivate/python-todo-app.git
+](https://github.com/anindyaPrivate/Todo-App/tree/master)
+```
 
+## Demo
+Check out the app here: 📝 Python To-Do App
